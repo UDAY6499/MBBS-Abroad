@@ -12,3 +12,5 @@ This is a landing page for promoting MBBS courses abroad. The page is built usin
 ## Design and Development
 
 The design focuses on a clean and responsive layout, ensuring fast loading times and SEO optimization. Tailwind CSS was used for styling, and JavaScript for form validation. Google Analytics and Facebook Pixel were integrated for tracking user interactions.
+
+![Screenshot 2025-02-13 193615](https://github.com/user-attachments/assets/d35fae0d-a87a-49ce-981f-e5420115f66b)
